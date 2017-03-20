@@ -10,7 +10,12 @@
 var arguments = process.argv.splice(2);
 
 if (arguments[0] === 'error') {
+
   throw new Error('run in error mode');
+
 } else {
+
+  console.log('add test');
   console.log('app start success');
+
 }
