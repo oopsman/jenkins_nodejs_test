@@ -15,7 +15,7 @@ if (arguments[0] === 'error') {
 
 } else {
 
-  console.log('add test');
+  console.log('add test000');
   console.log('app start success');
 
 }
