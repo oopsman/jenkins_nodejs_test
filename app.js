@@ -20,5 +20,6 @@ if (arguments[0] === 'error') {
   console.log('haha ');
   console.log('aaaaa');
   console.log('bbbb');
+  console.log('ssh');
 
 }
