@@ -19,5 +19,6 @@ if (arguments[0] === 'error') {
   console.log('app start success');
   console.log('haha ');
   console.log('aaaaa');
+  console.log('bbbb');
 
 }
