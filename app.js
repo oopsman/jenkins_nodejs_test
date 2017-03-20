@@ -21,5 +21,6 @@ if (arguments[0] === 'error') {
   console.log('aaaaa');
   console.log('bbbb');
   console.log('ssh');
+  console.log('ssh222');
 
 }
